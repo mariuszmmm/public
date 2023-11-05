@@ -42,6 +42,10 @@
     "USD": {
       "code": "USD",
       "value": 0.2411142911
+    },
+    "PLN": {
+      "code": "PLN",
+      "value": 1
     }
   }
 }
