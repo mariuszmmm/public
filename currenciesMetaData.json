@@ -351,20 +351,7 @@
     "countries": [{
         "country": " Czechy",
         "iso3166-2": "CZ"
-      },
-      {
-        "country": " Dania",
-        "iso3166-2": "DK"
-      },
-      {
-        "country": " Grenlandia",
-        "iso3166-2": "GL"
-      },
-      {
-        "country": " Wyspy Owcze",
-        "iso3166-2": "FO"
-      }
-    ]
+    }]
   },
   "DJF": {
     "symbol": "DJF",
