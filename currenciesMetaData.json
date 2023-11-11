@@ -1289,7 +1289,7 @@
   },
   "USD": {
     "symbol": "USD",
-    "currency": "dolar amerykański",
+    "currency": "dolar amerykański _ abc def ghi jkl mno prs tuw",
     "countries": [{
       "country": "Stany Zjednoczone",
       "iso3166-2": "US"
