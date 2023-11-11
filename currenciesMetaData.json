@@ -1,0 +1,1602 @@
+{
+  "AED": {
+    "symbol": "AED",
+    "currency": "uae dirham",
+    "countries": [
+      {
+        "country": " Zjednoczone Emiraty Arabskie",
+        "iso3166-2": "AE"
+      }
+    ]
+  },
+  "AFN": {
+    "symbol": "AFN",
+    "currency": "afgani",
+    "countries": [
+      {
+        "country": " Afganistan",
+        "iso3166-2": "AF"
+      }
+    ]
+  },
+  "ALL": {
+    "symbol": "ALL",
+    "currency": "lek",
+    "countries": [
+      {
+        "country": " Albania",
+        "iso3166-2": "AL"
+      }
+    ]
+  },
+  "AMD": {
+    "symbol": "AMD",
+    "currency": "dram",
+    "countries": [
+      {
+        "country": " Armenia",
+        "iso3166-2": "AM"
+      }
+    ]
+  },
+  "ANG": {
+    "symbol": "ANG",
+    "currency": "gulden antylski",
+    "countries": [
+      {
+        "country": " Curaçao",
+        "iso3166-2": "CW"
+      },
+      {
+        "country": " Sint Maarten",
+        "iso3166-2": "SX"
+      }
+    ]
+  },
+  "AOA": {
+    "symbol": "AOA",
+    "currency": "kwanza",
+    "countries": [
+      {
+        "country": " Angola",
+        "iso3166-2": "AO"
+      }
+    ]
+  },
+  "ARS": {
+    "symbol": "ARS",
+    "currency": "peso argentyńskie",
+    "countries": [
+      {
+        "country": " Argentyna",
+        "iso3166-2": "AR"
+      }
+    ]
+  },
+  "AUD": {
+    "symbol": "AUD",
+    "currency": "dolar australijski",
+    "countries": [
+      {
+        "country": " Australia",
+        "iso3166-2": "AU"
+      },
+      {
+        "country": " Kiribati",
+        "iso3166-2": "KI"
+      },
+      {
+        "country": " Nauru",
+        "iso3166-2": "NR"
+      },
+      {
+        "country": " Norfolk",
+        "iso3166-2": "NF"
+      },
+      {
+        "country": " Tuvalu",
+        "iso3166-2": "TV"
+      },
+      {
+        "country": " Wyspa Bożego Narodzenia",
+        "iso3166-2": "CX"
+      },
+      {
+        "country": " Wyspy Heard i McDonalda",
+        "iso3166-2": "HM"
+      },
+      {
+        "country": " Wyspy Kokosowe",
+        "iso3166-2": "CC"
+      }
+    ]
+  },
+  "AWG": {
+    "symbol": "AWG",
+    "currency": "florin arubański",
+    "countries": [
+      {
+        "country": " Aruba",
+        "iso3166-2": "AW"
+      }
+    ]
+  },
+  "AZN": {
+    "symbol": "AZN",
+    "currency": "manat azerbejdżański",
+    "countries": [
+      {
+        "country": " Azerbejdżan",
+        "iso3166-2": "AZ"
+      }
+    ]
+  },
+  "BAM": {
+    "symbol": "BAM",
+    "currency": "marka zamienna",
+    "countries": [
+      {
+        "country": " Bośnia i Hercegowina",
+        "iso3166-2": "BA"
+      }
+    ]
+  },
+  "BBD": {
+    "symbol": "BBD",
+    "currency": "dolar barbadosu",
+    "countries": [
+      {
+        "country": " Barbados",
+        "iso3166-2": "BB"
+      }
+    ]
+  },
+  "BDT": {
+    "symbol": "BDT",
+    "currency": "taka",
+    "countries": [
+      {
+        "country": " Bangladesz",
+        "iso3166-2": "BD"
+      }
+    ]
+  },
+  "BGN": {
+    "symbol": "BGN",
+    "currency": "lew",
+    "countries": [
+      {
+        "country": " Bułgaria",
+        "iso3166-2": "BG"
+      }
+    ]
+  },
+  "BHD": {
+    "symbol": "BHD",
+    "currency": "dinar bahrajński",
+    "countries": [
+      {
+        "country": " Bahrajn",
+        "iso3166-2": "BH"
+      }
+    ]
+  },
+  "BIF": {
+    "symbol": "BIF",
+    "currency": "frank burundyjski",
+    "countries": [
+      {
+        "country": " Burundi",
+        "iso3166-2": "BI"
+      }
+    ]
+  },
+  "BMD": {
+    "symbol": "BMD",
+    "currency": "dolar bermudzki",
+    "countries": [
+      {
+        "country": " Bermudy",
+        "iso3166-2": "BM"
+      }
+    ]
+  },
+  "BND": {
+    "symbol": "BND",
+    "currency": "dolar brunejski",
+    "countries": [
+      {
+        "country": " Brunei",
+        "iso3166-2": "BN"
+      }
+    ]
+  },
+  "BOB": {
+    "symbol": "BOB",
+    "currency": "boliviano",
+    "countries": [
+      {
+        "country": " Boliwia",
+        "iso3166-2": "BO"
+      }
+    ]
+  },
+  "BRL": {
+    "symbol": "BRL",
+    "currency": "real brazylijski",
+    "countries": [
+      {
+        "country": " Brazylia",
+        "iso3166-2": "BR"
+      }
+    ]
+  },
+  "BSD": {
+    "symbol": "BSD",
+    "currency": "dolar bahamski",
+    "countries": [
+      {
+        "country": " Bahamy",
+        "iso3166-2": "BS"
+      }
+    ]
+  },
+  "BTN": {
+    "symbol": "BTN",
+    "currency": "ngultrum",
+    "countries": [
+      {
+        "country": " Bhutan",
+        "iso3166-2": "BT"
+      }
+    ]
+  },
+  "BWP": {
+    "symbol": "BWP",
+    "currency": "pula",
+    "countries": [
+      {
+        "country": " Botswana",
+        "iso3166-2": "BW"
+      }
+    ]
+  },
+  "BYR": {
+    "symbol": "BYR",
+    "currency": "rubel białoruski",
+    "countries": [
+      {
+        "country": " Białoruś",
+        "iso3166-2": "BY"
+      }
+    ]
+  },
+  "BZD": {
+    "symbol": "BZD",
+    "currency": "dolar belizeński",
+    "countries": [
+      {
+        "country": " Belize",
+        "iso3166-2": "BZ"
+      }
+    ]
+  },
+  "CAD": {
+    "symbol": "CAD",
+    "currency": "kanadyjski dolar",
+    "countries": [
+      {
+        "country": " Kanada",
+        "iso3166-2": "CA"
+      }
+    ]
+  },
+  "CDF": {
+    "symbol": "CDF",
+    "currency": "frank kongijski",
+    "countries": [
+      {
+        "country": " Demokratyczna Republika Konga",
+        "iso3166-2": "CD"
+      }
+    ]
+  },
+  "CHF": [
+    {
+      "symbol": "CHF",
+      "currency": "frank szwajcarski",
+      "countries": [
+        {
+          "country": " Liechtenstein",
+          "iso3166-2": "LI"
+        }
+      ]
+    },
+    {
+      "symbol": "CHF",
+      "currency": "frank szwajcarski",
+      "countries": [
+        {
+          "country": " Szwajcaria",
+          "iso3166-2": "CH"
+        }
+      ]
+    }
+  ],
+  "CLP": {
+    "symbol": "CLP",
+    "currency": "peso chilijskie",
+    "countries": [
+      {
+        "country": " Chile",
+        "iso3166-2": "CL"
+      }
+    ]
+  },
+  "CNY": {
+    "symbol": "CNY",
+    "currency": "renminbi",
+    "countries": [
+      {
+        "country": " Chiny",
+        "iso3166-2": "CN"
+      }
+    ]
+  },
+  "COP": {
+    "symbol": "COP",
+    "currency": "peso kolumbijskie",
+    "countries": [
+      {
+        "country": " Kolumbia",
+        "iso3166-2": "CO"
+      }
+    ]
+  },
+  "CRC": {
+    "symbol": "CRC",
+    "currency": "colón",
+    "countries": [
+      {
+        "country": " Kostaryka",
+        "iso3166-2": "CR"
+      }
+    ]
+  },
+  "CUC": {
+    "symbol": "CUC",
+    "currency": "peso kubańskie wymienialne",
+    "countries": [
+      {
+        "country": " Kuba",
+        "iso3166-2": "CU"
+      }
+    ]
+  },
+  "CZK": {
+    "symbol": "CZK",
+    "currency": "korona czeska",
+    "countries": [
+      {
+        "country": " Czechy",
+        "iso3166-2": "CZ"
+      },
+      {
+        "country": " Dania",
+        "iso3166-2": "DK"
+      },
+      {
+        "country": " Grenlandia",
+        "iso3166-2": "GL"
+      },
+      {
+        "country": " Wyspy Owcze",
+        "iso3166-2": "FO"
+      }
+    ]
+  },
+  "DJF": {
+    "symbol": "DJF",
+    "currency": "frank dżibutyjski",
+    "countries": [
+      {
+        "country": " Dżibuti",
+        "iso3166-2": "DJ"
+      }
+    ]
+  },
+  "DKK": [
+    {
+      "symbol": "DKK",
+      "currency": "korona duńska",
+      "countries": [
+        {
+          "country": " Dania",
+          "iso3166-2": "DK"
+        }
+      ]
+    },
+    {
+      "symbol": "DKK",
+      "currency": "duńska korona",
+      "countries": [
+        {
+          "country": " Grenlandia",
+          "iso3166-2": "GL"
+        }
+      ]
+    },
+    {
+      "symbol": "DKK",
+      "currency": "korona duńska",
+      "countries": [
+        {
+          "country": " Wyspy Owcze",
+          "iso3166-2": "FO"
+        }
+      ]
+    }
+  ],
+  "DZD": {
+    "symbol": "DZD",
+    "currency": "dinar algierski",
+    "countries": [
+      {
+        "country": " Algieria",
+        "iso3166-2": "DZ"
+      }
+    ]
+  },
+  "EGP": {
+    "symbol": "EGP",
+    "currency": "funt egipski",
+    "countries": [
+      {
+        "country": " Egipt",
+        "iso3166-2": "EG"
+      }
+    ]
+  },
+  "ERN": {
+    "symbol": "ERN",
+    "currency": "nakfa",
+    "countries": [
+      {
+        "country": " Erytrea",
+        "iso3166-2": "ER"
+      }
+    ]
+  },
+  "ETB": {
+    "symbol": "ETB",
+    "currency": "birr",
+    "countries": [
+      {
+        "country": " Etiopia",
+        "iso3166-2": "ET"
+      }
+    ]
+  },
+  "EUR": {
+    "symbol": "EUR",
+    "currency": "euro",
+    "countries": [
+      {
+        "country": " Unia europejska",
+        "iso3166-2": "EU"
+      }
+    ]
+  },
+  "FJD": {
+    "symbol": "FJD",
+    "currency": "dolar fidżi",
+    "countries": [
+      {
+        "country": " Fidżi",
+        "iso3166-2": "FJ"
+      }
+    ]
+  },
+  "FKP": {
+    "symbol": "FKP",
+    "currency": "funt falklandzki",
+    "countries": [
+      {
+        "country": " Falklandy",
+        "iso3166-2": "FK"
+      }
+    ]
+  },
+  "GBP": {
+    "symbol": "GBP",
+    "currency": "funt szterling",
+    "countries": [
+      {
+        "country": " Wielka Brytania",
+        "iso3166-2": "GB"
+      }
+    ]
+  },
+  "GEL": {
+    "symbol": "GEL",
+    "currency": "lari",
+    "countries": [
+      {
+        "country": " Georgia Południowa i Sandwich Południowy",
+        "iso3166-2": "GS"
+      }
+    ]
+  },
+  "GHS": {
+    "symbol": "GHS",
+    "currency": "cedi",
+    "countries": [
+      {
+        "country": " Ghana",
+        "iso3166-2": "GH"
+      }
+    ]
+  },
+  "GIP": {
+    "symbol": "GIP",
+    "currency": "funt gibraltarski",
+    "countries": [
+      {
+        "country": " Gibraltar",
+        "iso3166-2": "GI"
+      }
+    ]
+  },
+  "GMD": {
+    "symbol": "GMD",
+    "currency": "dalasi",
+    "countries": [
+      {
+        "country": " Gambia",
+        "iso3166-2": "GM"
+      }
+    ]
+  },
+  "GNF": {
+    "symbol": "GNF",
+    "currency": "frank gwinejski",
+    "countries": [
+      {
+        "country": " Gwinea",
+        "iso3166-2": "GN"
+      }
+    ]
+  },
+  "GTQ": {
+    "symbol": "GTQ",
+    "currency": "quetzal",
+    "countries": [
+      {
+        "country": " Gwatemala",
+        "iso3166-2": "GT"
+      }
+    ]
+  },
+  "GYD": {
+    "symbol": "GYD",
+    "currency": "dolar gujański",
+    "countries": [
+      {
+        "country": " Gujana",
+        "iso3166-2": "GY"
+      }
+    ]
+  },
+  "HKD": {
+    "symbol": "HKD",
+    "currency": "dolar hongkoński",
+    "countries": [
+      {
+        "country": " Hongkong",
+        "iso3166-2": "HK"
+      }
+    ]
+  },
+  "HNL": {
+    "symbol": "HNL",
+    "currency": "lempira",
+    "countries": [
+      {
+        "country": " Honduras",
+        "iso3166-2": "HN"
+      }
+    ]
+  },
+  "HRK": {
+    "symbol": "HRK",
+    "currency": "kuna",
+    "countries": [
+      {
+        "country": " Chorwacja",
+        "iso3166-2": "HR"
+      }
+    ]
+  },
+  "HTG": {
+    "symbol": "HTG",
+    "currency": "gourde",
+    "countries": [
+      {
+        "country": " Haiti",
+        "iso3166-2": "HT"
+      }
+    ]
+  },
+  "HUF": {
+    "symbol": "HUF",
+    "currency": "forint",
+    "countries": [
+      {
+        "country": " Węgry",
+        "iso3166-2": "HU"
+      }
+    ]
+  },
+  "IDR": {
+    "symbol": "IDR",
+    "currency": "rupia",
+    "countries": [
+      {
+        "country": " Indonezja",
+        "iso3166-2": "ID"
+      }
+    ]
+  },
+  "ILS": {
+    "symbol": "ILS",
+    "currency": "nowy szekel",
+    "countries": [
+      {
+        "country": " Izrael",
+        "iso3166-2": "IL"
+      }
+    ]
+  },
+  "INR": {
+    "symbol": "INR",
+    "currency": "rupia indyjska",
+    "countries": [
+      {
+        "country": " Indie",
+        "iso3166-2": "IN"
+      }
+    ]
+  },
+  "IQD": {
+    "symbol": "IQD",
+    "currency": "dinar iracki",
+    "countries": [
+      {
+        "country": " Irak",
+        "iso3166-2": "IQ"
+      }
+    ]
+  },
+  "IRR": {
+    "symbol": "IRR",
+    "currency": "rial irański",
+    "countries": [
+      {
+        "country": " Iran",
+        "iso3166-2": "IR"
+      }
+    ]
+  },
+  "ISK": {
+    "symbol": "ISK",
+    "currency": "korona islandzka",
+    "countries": [
+      {
+        "country": " Islandia",
+        "iso3166-2": "IS"
+      }
+    ]
+  },
+  "JMD": {
+    "symbol": "JMD",
+    "currency": "dolar jamajski",
+    "countries": [
+      {
+        "country": " Jamajka",
+        "iso3166-2": "JM"
+      }
+    ]
+  },
+  "JOD": {
+    "symbol": "JOD",
+    "currency": "dinar jordański",
+    "countries": [
+      {
+        "country": " Jordania",
+        "iso3166-2": "JO"
+      }
+    ]
+  },
+  "JPY": {
+    "symbol": "JPY",
+    "currency": "jen",
+    "countries": [
+      {
+        "country": " Japonia",
+        "iso3166-2": "JP"
+      }
+    ]
+  },
+  "KES": {
+    "symbol": "KES",
+    "currency": "szyling kenijski",
+    "countries": [
+      {
+        "country": " Kenia",
+        "iso3166-2": "KE"
+      }
+    ]
+  },
+  "KGS": {
+    "symbol": "KGS",
+    "currency": "som",
+    "countries": [
+      {
+        "country": " Kirgistan",
+        "iso3166-2": "KG"
+      }
+    ]
+  },
+  "KHR": {
+    "symbol": "KHR",
+    "currency": "riel kambodżański",
+    "countries": [
+      {
+        "country": " Kambodża",
+        "iso3166-2": "KH"
+      }
+    ]
+  },
+  "KMF": {
+    "symbol": "KMF",
+    "currency": "frank komoryjski",
+    "countries": [
+      {
+        "country": " Komory",
+        "iso3166-2": "KM"
+      }
+    ]
+  },
+  "KPW": {
+    "symbol": "KPW",
+    "currency": "won północnokoreański",
+    "countries": [
+      {
+        "country": " Korea Północna",
+        "iso3166-2": "KP"
+      }
+    ]
+  },
+  "KRW": {
+    "symbol": "KRW",
+    "currency": "won",
+    "countries": [
+      {
+        "country": " Korea Południowa",
+        "iso3166-2": "KR"
+      }
+    ]
+  },
+  "KWD": {
+    "symbol": "KWD",
+    "currency": "dinar kuwejcki",
+    "countries": [
+      {
+        "country": " Kuwejt",
+        "iso3166-2": "KW"
+      }
+    ]
+  },
+  "KYD": {
+    "symbol": "KYD",
+    "currency": "dolar kajmański",
+    "countries": [
+      {
+        "country": " Kajmany",
+        "iso3166-2": "KY"
+      }
+    ]
+  },
+  "KZT": {
+    "symbol": "KZT",
+    "currency": "tenge",
+    "countries": [
+      {
+        "country": " Kazachstan",
+        "iso3166-2": "KZ"
+      }
+    ]
+  },
+  "LAK": {
+    "symbol": "LAK",
+    "currency": "kip",
+    "countries": [
+      {
+        "country": " Laos",
+        "iso3166-2": "LA"
+      }
+    ]
+  },
+  "LBP": {
+    "symbol": "LBP",
+    "currency": "funt libański",
+    "countries": [
+      {
+        "country": " Liban",
+        "iso3166-2": "LB"
+      }
+    ]
+  },
+  "LKR": {
+    "symbol": "LKR",
+    "currency": "rupia lankijska",
+    "countries": [
+      {
+        "country": " Sri Lanka",
+        "iso3166-2": "LK"
+      }
+    ]
+  },
+  "LRD": {
+    "symbol": "LRD",
+    "currency": "dolar liberyjski",
+    "countries": [
+      {
+        "country": " Liberia",
+        "iso3166-2": "LR"
+      }
+    ]
+  },
+  "LSL": {
+    "symbol": "LSL",
+    "currency": "loti",
+    "countries": [
+      {
+        "country": " Lesotho",
+        "iso3166-2": "LS"
+      }
+    ]
+  },
+  "LYD": {
+    "symbol": "LYD",
+    "currency": "dinar libijski",
+    "countries": [
+      {
+        "country": " Libia",
+        "iso3166-2": "LY"
+      }
+    ]
+  },
+  "MAD": {
+    "symbol": "MAD",
+    "currency": "dirham marokański",
+    "countries": [
+      {
+        "country": " Maroko",
+        "iso3166-2": "MA"
+      }
+    ]
+  },
+  "MDL": {
+    "symbol": "MDL",
+    "currency": "lej mołdawski",
+    "countries": [
+      {
+        "country": " Mołdawia",
+        "iso3166-2": "MD"
+      }
+    ]
+  },
+  "MGA": {
+    "symbol": "MGA",
+    "currency": "ariary",
+    "countries": [
+      {
+        "country": " Madagaskar",
+        "iso3166-2": "MG"
+      }
+    ]
+  },
+  "MMK": {
+    "symbol": "MMK",
+    "currency": "kiat",
+    "countries": [
+      {
+        "country": " Mjanma",
+        "iso3166-2": "MM"
+      }
+    ]
+  },
+  "MNT": {
+    "symbol": "MNT",
+    "currency": "tugrik",
+    "countries": [
+      {
+        "country": " Mongolia",
+        "iso3166-2": "MN"
+      }
+    ]
+  },
+  "MOP": {
+    "symbol": "MOP",
+    "currency": "pataca",
+    "countries": [
+      {
+        "country": " Makau",
+        "iso3166-2": "MO"
+      }
+    ]
+  },
+  "MRU": {
+    "symbol": "MRU",
+    "currency": "ugija",
+    "countries": [
+      {
+        "country": " Mauretania",
+        "iso3166-2": "MR"
+      }
+    ]
+  },
+  "MUR": {
+    "symbol": "MUR",
+    "currency": "rupia maurytyjska",
+    "countries": [
+      {
+        "country": " Mauritius",
+        "iso3166-2": "MU"
+      }
+    ]
+  },
+  "MVR": {
+    "symbol": "MVR",
+    "currency": "rupia malediwska",
+    "countries": [
+      {
+        "country": " Malediwy",
+        "iso3166-2": "MV"
+      }
+    ]
+  },
+  "MWK": {
+    "symbol": "MWK",
+    "currency": "kwacha zambijska",
+    "countries": [
+      {
+        "country": " Malawi",
+        "iso3166-2": "MW"
+      }
+    ]
+  },
+  "MXN": {
+    "symbol": "MXN",
+    "currency": "peso meksykańskie",
+    "countries": [
+      {
+        "country": " Meksyk",
+        "iso3166-2": "MX"
+      }
+    ]
+  },
+  "MYR": {
+    "symbol": "MYR",
+    "currency": "ringgit",
+    "countries": [
+      {
+        "country": " Malezja",
+        "iso3166-2": "MY"
+      }
+    ]
+  },
+  "MZN": {
+    "symbol": "MZN",
+    "currency": "metical",
+    "countries": [
+      {
+        "country": " Mozambik",
+        "iso3166-2": "MZ"
+      }
+    ]
+  },
+  "NAD": {
+    "symbol": "NAD",
+    "currency": "dolar namibijski",
+    "countries": [
+      {
+        "country": " Namibia",
+        "iso3166-2": "NA"
+      }
+    ]
+  },
+  "NGN": {
+    "symbol": "NGN",
+    "currency": "naira",
+    "countries": [
+      {
+        "country": " Nigeria",
+        "iso3166-2": "NG"
+      }
+    ]
+  },
+  "NIO": {
+    "symbol": "NIO",
+    "currency": "córdoba",
+    "countries": [
+      {
+        "country": " Nikaragua",
+        "iso3166-2": "NI"
+      }
+    ]
+  },
+  "NOK": {
+    "symbol": "NOK",
+    "currency": "korona norweska",
+    "countries": [
+      {
+        "country": " Norwegia",
+        "iso3166-2": "NO"
+      }
+    ]
+  },
+  "NPR": {
+    "symbol": "NPR",
+    "currency": "rupia nepalska",
+    "countries": [
+      {
+        "country": " Nepal",
+        "iso3166-2": "NP"
+      }
+    ]
+  },
+  "NZD": {
+    "symbol": "NZD",
+    "currency": "dolar nowozelandzki",
+    "countries": [
+      {
+        "country": " Nowa Zelandia",
+        "iso3166-2": "NZ"
+      }
+    ]
+  },
+  "OMR": {
+    "symbol": "OMR",
+    "currency": "rial omański",
+    "countries": [
+      {
+        "country": " Oman",
+        "iso3166-2": "OM"
+      }
+    ]
+  },
+  "PAB": {
+    "symbol": "PAB",
+    "currency": "balboa",
+    "countries": [
+      {
+        "country": " Panama",
+        "iso3166-2": "PA"
+      }
+    ]
+  },
+  "PEN": {
+    "symbol": "PEN",
+    "currency": "sol",
+    "countries": [
+      {
+        "country": " Peru",
+        "iso3166-2": "PE"
+      }
+    ]
+  },
+  "PGK": {
+    "symbol": "PGK",
+    "currency": "kina",
+    "countries": [
+      {
+        "country": " Papua-Nowa Gwinea",
+        "iso3166-2": "PG"
+      }
+    ]
+  },
+  "PHP": {
+    "symbol": "PHP",
+    "currency": "peso filipińskie",
+    "countries": [
+      {
+        "country": " Filipiny",
+        "iso3166-2": "PH"
+      }
+    ]
+  },
+  "PKR": {
+    "symbol": "PKR",
+    "currency": "rupia pakistańska",
+    "countries": [
+      {
+        "country": " Pakistan",
+        "iso3166-2": "PK"
+      }
+    ]
+  },
+  "PLN": {
+    "symbol": "PLN",
+    "currency": "złoty",
+    "countries": [
+      {
+        "country": " Polska",
+        "iso3166-2": "PL"
+      }
+    ]
+  },
+  "PYG": {
+    "symbol": "PYG",
+    "currency": "guarani",
+    "countries": [
+      {
+        "country": " Paragwaj",
+        "iso3166-2": "PY"
+      }
+    ]
+  },
+  "QAR": {
+    "symbol": "QAR",
+    "currency": "rial katarski",
+    "countries": [
+      {
+        "country": " Katar",
+        "iso3166-2": "QA"
+      }
+    ]
+  },
+  "RON": {
+    "symbol": "RON",
+    "currency": "lej",
+    "countries": [
+      {
+        "country": " Rumunia",
+        "iso3166-2": "RO"
+      }
+    ]
+  },
+  "RSD": {
+    "symbol": "RSD",
+    "currency": "dinar serbski",
+    "countries": [
+      {
+        "country": " Serbia",
+        "iso3166-2": "RS"
+      }
+    ]
+  },
+  "RUB": {
+    "symbol": "RUB",
+    "currency": "rubel rosyjski",
+    "countries": [
+      {
+        "country": " Rosja",
+        "iso3166-2": "RU"
+      }
+    ]
+  },
+  "RWF": {
+    "symbol": "RWF",
+    "currency": "frank rwandyjski",
+    "countries": [
+      {
+        "country": " Rwanda",
+        "iso3166-2": "RW"
+      }
+    ]
+  },
+  "SAR": {
+    "symbol": "SAR",
+    "currency": "rial saudyjski",
+    "countries": [
+      {
+        "country": " Arabia Saudyjska",
+        "iso3166-2": "SA"
+      }
+    ]
+  },
+  "SBD": {
+    "symbol": "SBD",
+    "currency": "dolar wysp salomona",
+    "countries": [
+      {
+        "country": " Wyspy Salomona",
+        "iso3166-2": "SB"
+      }
+    ]
+  },
+  "SCR": {
+    "symbol": "SCR",
+    "currency": "rupia seszelska",
+    "countries": [
+      {
+        "country": " Seszele",
+        "iso3166-2": "SC"
+      }
+    ]
+  },
+  "SDG": {
+    "symbol": "SDG",
+    "currency": "funt sudański",
+    "countries": [
+      {
+        "country": " Sudan",
+        "iso3166-2": "SD"
+      }
+    ]
+  },
+  "SEK": {
+    "symbol": "SEK",
+    "currency": "korona szwedzka",
+    "countries": [
+      {
+        "country": " Szwecja",
+        "iso3166-2": "SE"
+      }
+    ]
+  },
+  "SGD": {
+    "symbol": "SGD",
+    "currency": "dolar singapurski",
+    "countries": [
+      {
+        "country": " Singapur",
+        "iso3166-2": "SG"
+      }
+    ]
+  },
+  "SHP": {
+    "symbol": "SHP",
+    "currency": "funt świętej heleny",
+    "countries": [
+      {
+        "country": " Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
+        "iso3166-2": "SH"
+      }
+    ]
+  },
+  "SLL": {
+    "symbol": "SLL",
+    "currency": "leone",
+    "countries": [
+      {
+        "country": " Sierra Leone",
+        "iso3166-2": "SL"
+      }
+    ]
+  },
+  "SOS": {
+    "symbol": "SOS",
+    "currency": "szyling somalijski",
+    "countries": [
+      {
+        "country": " Somalia",
+        "iso3166-2": "SO"
+      }
+    ]
+  },
+  "SRD": {
+    "symbol": "SRD",
+    "currency": "dolar surinamski",
+    "countries": [
+      {
+        "country": " Surinam",
+        "iso3166-2": "SR"
+      }
+    ]
+  },
+  "SSP": {
+    "symbol": "SSP",
+    "currency": "funt południowosudański",
+    "countries": [
+      {
+        "country": " Sudan Południowy",
+        "iso3166-2": "SS"
+      }
+    ]
+  },
+  "STN": {
+    "symbol": "STN",
+    "currency": "dobra",
+    "countries": [
+      {
+        "country": " Wyspy Świętego Tomasza i Książęca",
+        "iso3166-2": "ST"
+      }
+    ]
+  },
+  "SVC": {
+    "symbol": "SVC",
+    "currency": "colón salwadorski",
+    "countries": [
+      {
+        "country": " Salwador",
+        "iso3166-2": "SV"
+      }
+    ]
+  },
+  "SYP": {
+    "symbol": "SYP",
+    "currency": "funt syryjski",
+    "countries": [
+      {
+        "country": " Syria",
+        "iso3166-2": "SY"
+      }
+    ]
+  },
+  "SZL": {
+    "symbol": "SZL",
+    "currency": "lilangeni",
+    "country": " Eswatini",
+    "iso3166-2": "SZ"
+  },
+  "THB": {
+    "symbol": "THB",
+    "currency": "bat",
+    "country": " Tajlandia",
+    "iso3166-2": "TH"
+  },
+  "TJS": {
+    "symbol": "TJS",
+    "currency": "somoni",
+    "country": " Tadżykistan",
+    "iso3166-2": "TJ"
+  },
+  "TMT": {
+    "symbol": "TMT",
+    "currency": "manat turkmeński",
+    "country": " Turkmenistan",
+    "iso3166-2": "TM"
+  },
+  "TND": {
+    "symbol": "TND",
+    "currency": "dinar tunezyjski",
+    "country": " Tunezja",
+    "iso3166-2": "TN"
+  },
+  "TOP": {
+    "symbol": "TOP",
+    "currency": "pa’anga",
+    "country": " Tonga",
+    "iso3166-2": "TO"
+  },
+  "TRY": {
+    "symbol": "TRY",
+    "currency": "lira turecka",
+    "country": " Turcja",
+    "iso3166-2": "TR"
+  },
+  "TTD": {
+    "symbol": "TTD",
+    "currency": "dolar trynidadu i tobago",
+    "country": " Trynidad i Tobago",
+    "iso3166-2": "TT"
+  },
+  "TWD": {
+    "symbol": "TWD",
+    "currency": "dolar tajwański",
+    "country": " Tajwan",
+    "iso3166-2": "TW"
+  },
+  "TZS": {
+    "symbol": "TZS",
+    "currency": "szyling tanzański",
+    "country": " Tanzania",
+    "iso3166-2": "TZ"
+  },
+  "UAH": {
+    "symbol": "UAH",
+    "currency": "hrywna",
+    "country": " Ukraina",
+    "iso3166-2": "UA"
+  },
+  "UGX": {
+    "symbol": "UGX",
+    "currency": "szyling ugandyjski",
+    "country": " Uganda",
+    "iso3166-2": "UG"
+  },
+  "USD": {
+    "symbol": "USD",
+    "currency": "dolar amerykański",
+    "country": " Stany Zjednoczone",
+    "iso3166-2": "US"
+  },
+  "UYU": {
+    "symbol": "UYU",
+    "currency": "peso urugwajskie",
+    "country": " Urugwaj",
+    "iso3166-2": "UY"
+  },
+  "UZS": {
+    "symbol": "UZS",
+    "currency": "sum",
+    "country": " Uzbekistan",
+    "iso3166-2": "UZ"
+  },
+  "VEF": {
+    "symbol": "VEF",
+    "currency": "boliwar",
+    "country": " Wenezuela",
+    "iso3166-2": "VE"
+  },
+  "VND": {
+    "symbol": "VND",
+    "currency": "dong",
+    "country": " Wietnam",
+    "iso3166-2": "VN"
+  },
+  "VUV": {
+    "symbol": "VUV",
+    "currency": "vatu",
+    "country": " Vanuatu",
+    "iso3166-2": "VU"
+  },
+  "WST": {
+    "symbol": "WST",
+    "currency": "tala",
+    "country": " Samoa",
+    "iso3166-2": "WS"
+  },
+  "XAF": {
+    "symbol": "XAF",
+    "currency": "cfa frank beac",
+    "countries": [
+      {
+        "country": " Czad",
+        "iso3166-2": "TD"
+      },
+      {
+        "country": " Gabon",
+        "iso3166-2": "GA"
+      },
+      {
+        "country": " Gwinea Równikowa",
+        "iso3166-2": "GQ"
+      },
+      {
+        "country": " Kamerun",
+        "iso3166-2": "CM"
+      },
+      {
+        "country": " Kongo",
+        "iso3166-2": "CG"
+      },
+      {
+        "country": " Republika Środkowoafrykańska",
+        "iso3166-2": "CF"
+      }
+    ]
+  },
+  "XCD": {
+    "symbol": "XCD",
+    "currency": "dolar wschodniokaraibski",
+    "countries": [
+      {
+        "country": " Anguilla",
+        "iso3166-2": "AI"
+      },
+      {
+        "country": " Antigua i Barbuda",
+        "iso3166-2": "AG"
+      },
+      {
+        "country": " Dominikana",
+        "iso3166-2": "DO"
+      },
+      {
+        "country": " Grenada",
+        "iso3166-2": "GD"
+      },
+      {
+        "country": " Montserrat",
+        "iso3166-2": "MS"
+      },
+      {
+        "country": " Saint Kitts i Nevis",
+        "iso3166-2": "KN"
+      },
+      {
+        "country": " Saint Lucia",
+        "iso3166-2": "LC"
+      },
+      {
+        "country": " Saint Vincent i Grenadyny",
+        "iso3166-2": "VC"
+      }
+    ]
+  },
+  "XOF": {
+    "symbol": "XOF",
+    "currency": "cfa frank bceao",
+    "countries": [
+      {
+        "country": " Benin",
+        "iso3166-2": "BJ"
+      },
+      {
+        "country": " Burkina Faso",
+        "iso3166-2": "BF"
+      },
+      {
+        "country": " Gwinea Bissau",
+        "iso3166-2": "GW"
+      },
+      {
+        "country": " Mali",
+        "iso3166-2": "ML"
+      },
+      {
+        "country": " Niger",
+        "iso3166-2": "NE"
+      },
+      {
+        "country": " Senegal",
+        "iso3166-2": "SN"
+      },
+      {
+        "country": " Togo",
+        "iso3166-2": "TG"
+      },
+      {
+        "country": " Wybrzeże Kości Słoniowej",
+        "iso3166-2": "CI"
+      }
+    ]
+  },
+  "XPF": {
+    "symbol": "XPF",
+    "currency": "frank cfp",
+    "countries": [
+      {
+        "country": " Nowa Kaledonia",
+        "iso3166-2": "NC"
+      },
+      {
+        "country": " Polinezja Francuska",
+        "iso3166-2": "PF"
+      },
+      {
+        "country": " Wallis i Futuna",
+        "iso3166-2": "WF"
+      }
+    ]
+  },
+  "YER": {
+    "symbol": "YER",
+    "currency": "rial jemeński",
+    "country": " Jemen",
+    "iso3166-2": "YE"
+  },
+  "ZAR": {
+    "symbol": "ZAR",
+    "currency": "rand",
+    "country": " Południowa Afryka",
+    "iso3166-2": "ZA"
+  },
+  "ZMW": {
+    "symbol": "ZMW",
+    "currency": "kwacha zambijska",
+    "country": " Zambia",
+    "iso3166-2": "ZM"
+  },
+  "ZWL": {
+    "symbol": "ZWL",
+    "currency": "dolar zimbabwe",
+    "country": " Zimbabwe",
+    "iso3166-2": "ZW"
+  }
+}
