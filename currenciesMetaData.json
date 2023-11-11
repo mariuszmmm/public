@@ -301,28 +301,16 @@
       }
     ]
   },
-  "CHF": [
-    {
-      "symbol": "CHF",
-      "currency": "frank szwajcarski",
-      "countries": [
-        {
-          "country": " Liechtenstein",
-          "iso3166-2": "LI"
-        }
-      ]
-    },
-    {
-      "symbol": "CHF",
-      "currency": "frank szwajcarski",
-      "countries": [
-        {
-          "country": " Szwajcaria",
-          "iso3166-2": "CH"
-        }
-      ]
-    }
-  ],
+  "CHF": {
+    "symbol": "CHF",
+    "currency": "frank szwajcarski",
+    "countries": [
+      {
+        "country": " Szwajcaria",
+        "iso3166-2": "CH"
+      }
+    ]
+  },
   "CLP": {
     "symbol": "CLP",
     "currency": "peso chilijskie",
@@ -405,38 +393,16 @@
       }
     ]
   },
-  "DKK": [
-    {
-      "symbol": "DKK",
-      "currency": "korona duńska",
-      "countries": [
-        {
-          "country": " Dania",
-          "iso3166-2": "DK"
-        }
-      ]
-    },
-    {
-      "symbol": "DKK",
-      "currency": "duńska korona",
-      "countries": [
-        {
-          "country": " Grenlandia",
-          "iso3166-2": "GL"
-        }
-      ]
-    },
-    {
-      "symbol": "DKK",
-      "currency": "korona duńska",
-      "countries": [
-        {
-          "country": " Wyspy Owcze",
-          "iso3166-2": "FO"
-        }
-      ]
-    }
-  ],
+  "DKK": {
+    "symbol": "DKK",
+    "currency": "korona duńska",
+    "countries": [
+      {
+        "country": " Dania",
+        "iso3166-2": "DK"
+      }
+    ]
+  },
   "DZD": {
     "symbol": "DZD",
     "currency": "dinar algierski",
