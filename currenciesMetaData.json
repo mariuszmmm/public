@@ -349,8 +349,8 @@
     "symbol": "CZK",
     "currency": "korona czeska",
     "countries": [{
-        "country": " Czechy",
-        "iso3166-2": "CZ"
+      "country": " Czechy",
+      "iso3166-2": "CZ"
     }]
   },
   "DJF": {
@@ -1347,120 +1347,120 @@
     "symbol": "XAF",
     "currency": "cfa frank beac",
     "countries": [{
-        "country": " Czad",
-        "iso3166-2": "TD"
-      },
-      {
-        "country": " Gabon",
-        "iso3166-2": "GA"
-      },
-      {
-        "country": " Gwinea Równikowa",
-        "iso3166-2": "GQ"
-      },
-      {
-        "country": " Kamerun",
-        "iso3166-2": "CM"
-      },
-      {
-        "country": " Kongo",
-        "iso3166-2": "CG"
-      },
-      {
-        "country": " Republika Środkowoafrykańska",
-        "iso3166-2": "CF"
-      }
+      "country": " Czad",
+      "iso3166-2": "TD"
+    },
+    {
+      "country": " Gabon",
+      "iso3166-2": "GA"
+    },
+    {
+      "country": " Gwinea Równikowa",
+      "iso3166-2": "GQ"
+    },
+    {
+      "country": " Kamerun",
+      "iso3166-2": "CM"
+    },
+    {
+      "country": " Kongo",
+      "iso3166-2": "CG"
+    },
+    {
+      "country": " Republika Środkowoafrykańska",
+      "iso3166-2": "CF"
+    }
     ]
   },
   "XCD": {
     "symbol": "XCD",
     "currency": "dolar wschodniokaraibski",
     "countries": [{
-        "country": " Anguilla",
-        "iso3166-2": "AI"
-      },
-      {
-        "country": " Antigua i Barbuda",
-        "iso3166-2": "AG"
-      },
-      {
-        "country": " Dominikana",
-        "iso3166-2": "DO"
-      },
-      {
-        "country": " Grenada",
-        "iso3166-2": "GD"
-      },
-      {
-        "country": " Montserrat",
-        "iso3166-2": "MS"
-      },
-      {
-        "country": " Saint Kitts i Nevis",
-        "iso3166-2": "KN"
-      },
-      {
-        "country": " Saint Lucia",
-        "iso3166-2": "LC"
-      },
-      {
-        "country": " Saint Vincent i Grenadyny",
-        "iso3166-2": "VC"
-      }
+      "country": " Anguilla",
+      "iso3166-2": "AI"
+    },
+    {
+      "country": " Antigua i Barbuda",
+      "iso3166-2": "AG"
+    },
+    {
+      "country": " Dominikana",
+      "iso3166-2": "DO"
+    },
+    {
+      "country": " Grenada",
+      "iso3166-2": "GD"
+    },
+    {
+      "country": " Montserrat",
+      "iso3166-2": "MS"
+    },
+    {
+      "country": " Saint Kitts i Nevis",
+      "iso3166-2": "KN"
+    },
+    {
+      "country": " Saint Lucia",
+      "iso3166-2": "LC"
+    },
+    {
+      "country": " Saint Vincent i Grenadyny",
+      "iso3166-2": "VC"
+    }
     ]
   },
   "XOF": {
     "symbol": "XOF",
     "currency": "cfa frank bceao",
     "countries": [{
-        "country": " Benin",
-        "iso3166-2": "BJ"
-      },
-      {
-        "country": " Burkina Faso",
-        "iso3166-2": "BF"
-      },
-      {
-        "country": " Gwinea Bissau",
-        "iso3166-2": "GW"
-      },
-      {
-        "country": " Mali",
-        "iso3166-2": "ML"
-      },
-      {
-        "country": " Niger",
-        "iso3166-2": "NE"
-      },
-      {
-        "country": " Senegal",
-        "iso3166-2": "SN"
-      },
-      {
-        "country": " Togo",
-        "iso3166-2": "TG"
-      },
-      {
-        "country": " Wybrzeże Kości Słoniowej",
-        "iso3166-2": "CI"
-      }
+      "country": " Benin",
+      "iso3166-2": "BJ"
+    },
+    {
+      "country": " Burkina Faso",
+      "iso3166-2": "BF"
+    },
+    {
+      "country": " Gwinea Bissau",
+      "iso3166-2": "GW"
+    },
+    {
+      "country": " Mali",
+      "iso3166-2": "ML"
+    },
+    {
+      "country": " Niger",
+      "iso3166-2": "NE"
+    },
+    {
+      "country": " Senegal",
+      "iso3166-2": "SN"
+    },
+    {
+      "country": " Togo",
+      "iso3166-2": "TG"
+    },
+    {
+      "country": " Wybrzeże Kości Słoniowej",
+      "iso3166-2": "CI"
+    }
     ]
   },
   "XPF": {
     "symbol": "XPF",
     "currency": "frank cfp",
     "countries": [{
-        "country": " Nowa Kaledonia",
-        "iso3166-2": "NC"
-      },
-      {
-        "country": " Polinezja Francuska",
-        "iso3166-2": "PF"
-      },
-      {
-        "country": " Wallis i Futuna",
-        "iso3166-2": "WF"
-      }
+      "country": " Nowa Kaledonia",
+      "iso3166-2": "NC"
+    },
+    {
+      "country": " Polinezja Francuska",
+      "iso3166-2": "PF"
+    },
+    {
+      "country": " Wallis i Futuna",
+      "iso3166-2": "WF"
+    }
     ]
   },
   "YER": {
