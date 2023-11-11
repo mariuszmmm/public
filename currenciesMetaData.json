@@ -297,23 +297,14 @@
       "iso3166-2": "CD"
     }]
   },
-  "CHF": [{
-      "symbol": "CHF",
-      "currency": "frank szwajcarski",
-      "countries": [{
-        "country": " Liechtenstein",
-        "iso3166-2": "LI"
-      }]
-    },
-    {
+  "CHF": {
       "symbol": "CHF",
       "currency": "frank szwajcarski",
       "countries": [{
         "country": " Szwajcaria",
         "iso3166-2": "CH"
-      }]
-    }
-  ],
+    }]
+  },
   "CLP": {
     "symbol": "CLP",
     "currency": "peso chilijskie",
