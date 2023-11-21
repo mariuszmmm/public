@@ -4,16 +4,20 @@
 * [Technologies](#technologies)
 * [Setup](#setup )
 * [Application view](#application-view)
+
 <br>
 
 ## Description
-<b>" Currency Exchange Calculator "</b> - a currency exchange calculator application based on the React.js library.<br>
-The project aims to allow users to convert amounts from one currency to another based on NBP (National Bank of Poland) exchange rates.
-Simple currency converter from PLN, EUR, USD, GBP, CNY, UAH. Converts currencies to both sides.  
-Currency rates are assigned by default but can be changed.  
-The application has been prepared for convenient use also on tablets and smartphones.
+<b>'Currency Exchange Calculator'</b> is an application built on the React.js library.<br>
+It allows for easy and quick currency conversion based on the current exchange rates from the National Bank of Poland (NBP).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application utilizes the fetch technology to retrieve current currency exchange rates from an external data source.<br>
+Thanks to error handling using the catch method, the application can react to situations where data retrieval fails.
+
+In case an error occurs while fetching the current currency exchange rates, the application automatically suggests loading the last saved rates from the local storage.<br>
+This allows users to access the most recently saved rates despite connectivity issues with the external source.
+
+Additionally, the application is responsive, adapting seamlessly to various screen sizes and devices for an enhanced user experience.
 
 <br>
 
@@ -29,28 +33,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <li>Custom Hooks</li>
 <li>API Integration</li>
 </ul>
+
 <br>
 
 ## Setup
 To run the program from the currency-converter-react repository on your local computer, you can follow these steps:
 1. <b>Downloading the source code:</b><br>
 Clone the repository from the GitHub page to your local computer using the command:
-  ```commandline
-  git clone https://github.com/mariuszmmm/currency-converter-react.git
-  ```
+```commandline
+     git clone https://github.com/mariuszmmm/currency-converter-react.git
+```
 2. <b>Dependency Installation:</b><br>
 Navigate to the project directory, then install all required dependencies using a package manager like npm:
 ```commandline
-cd currency-converter-react
-npm install
+    cd currency-converter-react
+    npm install
 ```
 3. <b>Launching the Application:</b><br>
 After installing the dependencies, you can run the application locally. Use the command:
 ```commandline
-npm start
+    npm start
 ```
-This command will start the application in developer mode, opening it in a browser at http://localhost:3000.
-#
+  This command will start the application in developer mode, opening it in a browser at http://localhost:3000.
+
 <br>
 
 ## Application view
