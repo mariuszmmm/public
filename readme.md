@@ -1,4 +1,4 @@
-* [General info])(#general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
@@ -54,6 +54,9 @@ Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 This app is inspired by Devs-Mentoring.pl
 
 
+
+
+## application-view
 
 # header H1
 ## header H2
