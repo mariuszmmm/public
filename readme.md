@@ -1,69 +1,68 @@
-* [General info](#general-info)
+# [Currency Exchange Calculator](https://mariuszmmm.github.io/currency-converter-react/)
+* [Try it Now](https://mariuszmmm.github.io/currency-converter-react/)
+* [Description ](#description)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [More detailed information about modules](#more-detailed-information-about-modules)
+* [Setup](#setup )
 * [Application view](#application-view)
+<br>
 
+## Description
+<b>" Currency Exchange Calculator "</b> - a currency exchange calculator application based on the React.js library.<br>
+The project aims to allow users to convert amounts from one currency to another based on NBP (National Bank of Poland) exchange rates.
+Simple currency converter from PLN, EUR, USD, GBP, CNY, UAH. Converts currencies to both sides.  
+Currency rates are assigned by default but can be changed.  
+The application has been prepared for convenient use also on tablets and smartphones.
 
-## General info
-<details>
-<summary>Click here to see general information about <b>Project</b>!</summary>
-<b>Lorem ipsum</b>. Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
-ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
-</details>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-**Ten tekst będzie pogrubiony**
-__Ten tekst również__
-
-
-~~Tego modułu w wersji końcowej już nie będzie~~
-
+<br>
 
 ## Technologies
 <ul>
-<li>One</li>
-<li>Two</li>
-<li>Three</li>
+<li>JavaScript ES6+ Features</li>
+<li>React.js</li>
+<li>JSX</li>
+<li>CSS</li>
+<li>Styled Components</li>
+<li>Media Queries</li>
+<li>Controlled Components</li>
+<li>Custom Hooks</li>
+<li>API Integration</li>
 </ul>
-
-
-```commandline
-Komendy w tym znaczniku zostaną podświetlone i sformatowane
-```
-
-
-```python lambda n: n if n <= 1 else fib(n – 1) + fib(n - 2)```
-
+<br>
 
 ## Setup
-Get a free API Key at https://example.com <br/>
-Clone the repo
-```git clone https://github.com/your_username_/Project-Name.git```
-Install NPM packages ```npm install```<br/>
-Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
+To run the program from the currency-converter-react repository on your local computer, you can follow these steps:
+1. <b>Downloading the source code:</b><br>
+Clone the repository from the GitHub page to your local computer using the command:
+  ```commandline
+  git clone https://github.com/mariuszmmm/currency-converter-react.git
+  ```
+2. <b>Dependency Installation:</b><br>
+Navigate to the project directory, then install all required dependencies using a package manager like npm:
+```commandline
+cd currency-converter-react
+npm install
+```
+3. <b>Launching the Application:</b><br>
+After installing the dependencies, you can run the application locally. Use the command:
+```commandline
+npm start
+```
+This command will start the application in developer mode, opening it in a browser at http://localhost:3000.
+#
+<br>
 
-
-
+## Application view
+((((
+Application view (ta sekcja zawiera pliki graficzne przedstawiające wygląd/działanie utworzonej aplikacji)
 <img src=”URL” width=”50%” height=”50%”>
-
-
-
-
-## Sources
-This app is inspired by Devs-Mentoring.pl
-
-
-
-
-## application-view
-
-# header H1
-## header H2
-### header H3
-#### header H4
-##### header H5
-###### header H6
-
-
-
+![Currency converter](public/images/animation.gif)
+W sekcji "Application view" można umieścić zrzuty ekranu (screenshots) lub zapisy ekranu prezentujące poszczególne widoki i funkcjonalności aplikacji currency-converter-react. Można opisywać każdy z widoków wraz z ich funkcjonalnościami.
+Strona główna: Zrzut ekranu pokazujący interfejs użytkownika z miejscami na wprowadzenie kwoty oraz wybór walut.
+Przykładowa konwersja: Screenshot prezentujący wynik przeliczenia kwoty z jednej waluty na drugą.
+Responsywność: Można umieścić zrzuty ekranu prezentujące wygląd aplikacji na różnych urządzeniach - na komputerze, tablecie oraz telefonie, pokazujące responsywność interfejsu.
+Interakcje użytkownika: Jeśli istnieją interaktywne elementy, można zrobić zrzuty ekranu lub zapisy ekranu prezentujące interakcje użytkownika, takie jak wybór walut, wprowadzenie kwoty, aktualizacja wyników itp.
+Dobrze byłoby opatrzyć każdy z zrzutów ekranu krótkim opisem lub adnotacją, wyjaśniającym co jest widoczne na obrazie oraz jakie funkcje są w danym widoku dostępne. To pomaga innym użytkownikom zrozumieć, jak korzystać z aplikacji i jakie funkcje są dostępne.
+))))
+_________________________________________
